@@ -52,4 +52,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Wolf Hopkins** - [Zevrov](https://github.com/Zevrov)
+* **Wolf Hopkins** - Ashu
